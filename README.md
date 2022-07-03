@@ -1,6 +1,6 @@
-I'm learning git.
+#I'm learning git.
 
 Git remote is amazing.
 
--Git
--SVN
+- Git
+- SVN
