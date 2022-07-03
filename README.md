@@ -2,4 +2,4 @@
 
 ## Gtb Names
 
-- WangShuanqiQi
+- Wang ShuanqiQi
