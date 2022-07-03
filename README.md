@@ -7,8 +7,6 @@
 
 Creating a new branch is quick and simple.
 
-does the conflict fixed?
+main branch
 
-main brancd!
 
-feature1 branch!
