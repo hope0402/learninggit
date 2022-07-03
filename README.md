@@ -5,7 +5,6 @@
 - Wang ShuanqiQi
 - this change is on thr branch of dev.
 
-Creating a new branch is quick and simple.
+- Creating a new branch is quick and simple.
 
-<<<<<<< HEAD
 - main branch!
