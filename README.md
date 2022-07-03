@@ -1,6 +1,5 @@
-# I'm learning git.
+# gtb-git-101
 
-Git remote is amazing.
+## Gtb Names
 
-- Git
-- SVN
+- WangShuanqiQi
