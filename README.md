@@ -7,5 +7,5 @@
 
 Creating a new branch is quick and simple.
 
-conflict fixed.
+does the conflict fixed?
 
