@@ -4,9 +4,8 @@
 
 - Wang ShuanqiQi
 - this change is on thr branch of dev.
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
 
-Creat a new branch is quick AND simple.
->>>>>>> feature1
+Creating a new branch is quick and simple.
+
+conflict fixed.
+
