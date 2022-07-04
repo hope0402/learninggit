@@ -9,4 +9,4 @@
 
 - main branch!
 
-- practyice the --no ff!
+- practice the --no ff!
